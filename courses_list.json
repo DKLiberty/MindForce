@@ -1,13 +1,13 @@
 [
   {
     "name": "Python for beginners",
-    "tags": "#Python #Programming #Beginner",
+    "tags": "#Python #Beginner",
     "author": "flypythoncom",
     "repo": "flypythoncom/python"
   },
   {
-    "name": "Java for beginners",
-    "tags": "#Java, #Programming, #Beginner",
+    "name": "Java",
+    "tags": "#Java",
     "author": "kishanrajput23",
     "repo": "kishanrajput23/Java-Tutorials"
   }
