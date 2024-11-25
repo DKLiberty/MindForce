@@ -1,14 +1,20 @@
 [
   {
     "name": "Python for beginners",
-    "tags": "#PythonForBeginners",
-    "auther": "flypythoncom",
+    "tags": "#Python, #Programming, #Beginner",
+    "author": "flypythoncom",
     "repo": "flypythoncom/python"
   },
   {
     "name": "C++ for beginners",
-    "tags": "#C++",
-    "auther": "kishanrajput23",
+    "tags": "#C++, #Programming, #Beginner",
+    "author": "kishanrajput23",
     "repo": "kishanrajput23/Java-Tutorials"
+  },
+  {
+    "name": "JavaScript for beginners",
+    "tags": "#JavaScript, #WebDevelopment, #Beginner",
+    "author": "johnDoeDev",
+    "repo": "johnDoeDev/js-tutorials"
   }
 ]
