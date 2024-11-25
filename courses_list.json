@@ -1,18 +1,14 @@
-{
-  "courses": [
-    {
-      "name": "Python for beginners",
-      "description": "Description of Python course",
-      "tags": "#Python",
-      "auther": "flypythoncom",
-      "repo": "flypythoncom/python",
-    },
-    {
-      "name": "Java for beginners",
-      "description": "Description of Java course",
-      "tags": "#Java",
-      "auther": "kishanrajput23",
-      "repo": "kishanrajput23/Java-Tutorials",
-    }
-  ]
-}
+[
+  {
+    "name": "Python for beginners",
+    "tags": "#Python",
+    "auther": "flypythoncom",
+    "repo": "flypythoncom/python",
+  },
+  {
+    "name": "C++ for beginners",
+    "tags": "#C++",
+    "auther": "kishanrajput23",
+    "repo": "kishanrajput23/Java-Tutorials",
+  }
+]
