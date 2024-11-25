@@ -1,8 +1,14 @@
 [
   {
-    "name": "Course 1"
+    "name": "Python for beginners",
+    "tags": "#Python",
+    "auther": "flypythoncom",
+    "repo": "flypythoncom/python",
   },
   {
-    "name": "Course 2"
+    "name": "C++ for beginners",
+    "tags": "#C++",
+    "auther": "kishanrajput23",
+    "repo": "kishanrajput23/Java-Tutorials",
   }
 ]
