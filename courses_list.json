@@ -3,67 +3,77 @@
     "name": "Python",
     "tags": "#Python #Beginner",
     "author": "flypythoncom",
-    "repo": "DKLiberty/MindForce/src/Python"
-    "icon": "DKLiberty/MindForce/src/Python/icon.png"
+    "repo": "DKLiberty/MindForce/src/Python",
+    "icon": "https://github.com/DKLiberty/MindForce/src/Python/icon.png"
   },
   {
     "name": "Java",
     "tags": "#Java",
     "author": "kishanrajput23",
-    "repo": "kishanrajput23/Java-Tutorials"
+    "repo": "kishanrajput23/Java-Tutorials",
+    "icon": ""
   },
   {
     "name": "Course",
     "tags": "#Course",
     "author": "dkliberty",
-    "repo": ""
+    "repo": "",
+    "icon": ""
   },
   {
     "name": "Course",
     "tags": "#Course",
     "author": "dkliberty",
-    "repo": ""
+    "repo": "",
+    "icon": ""
   },
   {
     "name": "Course",
     "tags": "#Course",
     "author": "dkliberty",
-    "repo": ""
+    "repo": "",
+    "icon": ""
   },
   {
     "name": "Course",
     "tags": "#Course",
     "author": "dkliberty",
-    "repo": ""
+    "repo": "",
+    "icon": ""
   },
   {
     "name": "Course",
     "tags": "#Course",
     "author": "dkliberty",
-    "repo": ""
+    "repo": "",
+    "icon": ""
   },
   {
     "name": "Course",
     "tags": "#Course",
     "author": "dkliberty",
-    "repo": ""
+    "repo": "",
+    "icon": ""
   },
   {
     "name": "Course",
     "tags": "#Course",
     "author": "dkliberty",
-    "repo": ""
+    "repo": "",
+    "icon": ""
   },
   {
     "name": "Course",
     "tags": "#Course",
     "author": "dkliberty",
-    "repo": ""
+    "repo": "",
+    "icon": ""
   },
   {
     "name": "Course",
     "tags": "#Course",
     "author": "dkliberty",
-    "repo": ""
+    "repo": "",
+    "icon": ""
   }
 ]
