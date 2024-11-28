@@ -19,5 +19,12 @@
     "author": "Wayne Foong Weng Hui",
     "repo": "https://github.com/DKLibert/CalisthenicsPlaybook",
     "icon": "https://raw.githubusercontent.com/DKLiberty/MindForce/main/src/CalisthenicsPlaybook/icon.png"
+  },
+  {
+    "name": "HTML",
+    "tags": "#HTML",
+    "author": "Sadullaev Akmal",
+    "repo": "https://github.com/DKLibert/HTML",
+    "icon": "https://raw.githubusercontent.com/DKLiberty/MindForce/main/src/html_icon.png"
   }
 ]
