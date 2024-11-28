@@ -12,5 +12,12 @@
     "author": "Sadullaev Akmal",
     "repo": "https://github.com/DKLiberty/Java-Course",
     "icon": "https://raw.githubusercontent.com/DKLiberty/MindForce/main/src/Java/icon.png"
+  },
+  {
+    "name": "Calisthenics Playbook",
+    "tags": "#Calisthenics",
+    "author": "Wayne Foong Weng Hui",
+    "repo": "https://github.com/DKLibert/CalisthenicsPlaybook",
+    "icon": "https://raw.githubusercontent.com/DKLiberty/MindForce/main/src/CalisthenicsPlaybook/icon.png"
   }
 ]
