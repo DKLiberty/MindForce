@@ -3,13 +3,15 @@
     "name": "Python",
     "tags": "#Python #Beginner",
     "author": "Sadullaev Akmal",
-    "repo": "",
+    "downloads": "204",
+    "repo": "https://github.com/DKLiberty/Python",
     "icon": "https://raw.githubusercontent.com/DKLiberty/MindForce/main/src/Python/icon.png"
   },
   {
     "name": "Java",
     "tags": "#Java",
     "author": "Sadullaev Akmal",
+    "downloads": "513",
     "repo": "https://github.com/DKLiberty/Java-Course",
     "icon": "https://raw.githubusercontent.com/DKLiberty/MindForce/main/src/Java/icon.png"
   },
@@ -17,6 +19,7 @@
     "name": "HTML+CSS",
     "tags": "#Calisthenics",
     "author": "Wayne Foong Weng Hui",
+    "downloads": "111",
     "repo": "https://github.com/jamezmca/html-css-full-course",
     "icon": "https://raw.githubusercontent.com/DKLiberty/MindForce/main/src/html_icon.png"
   }
