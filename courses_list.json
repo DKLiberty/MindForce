@@ -17,14 +17,14 @@
     "name": "Calisthenics Playbook",
     "tags": "#Calisthenics",
     "author": "Wayne Foong Weng Hui",
-    "repo": "https://github.com/DKLibert/CalisthenicsPlaybook",
+    "repo": "https://github.com/DKLiberty/CalisthenicsPlaybook",
     "icon": "https://raw.githubusercontent.com/DKLiberty/MindForce/main/src/CalisthenicsPlaybook/icon.png"
   },
   {
     "name": "HTML",
     "tags": "#HTML",
     "author": "Sadullaev Akmal",
-    "repo": "https://github.com/DKLibert/HTML",
+    "repo": "https://github.com/DKLiberty/HTML",
     "icon": "https://raw.githubusercontent.com/DKLiberty/MindForce/main/src/html_icon.png"
   }
 ]
