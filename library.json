@@ -36,8 +36,8 @@
   },
   {
     "name": "Kali Linux",
-    "tags": "#Kali #Linux",
-    "author": "Akmal1309",
+    "tags": "#Kali #Linux #Kali-Linux #Nmap #Metasploit",
+    "author": "umarbekE",
     "repo": "https://github.com/umarbekE/Kali-Linux",
     "icon": "https://raw.githubusercontent.com/Akmal1309/Kali-Linux/main/icon.png"
   }
