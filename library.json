@@ -36,7 +36,7 @@
   },
   {
     "name": "Kali Linux",
-    "tags": "#Kali #Linux #Kali-Linux #Nmap #Metasploit",
+    "tags": ["Kali-Linux", "Kali", "Linux", "Nmap","Metasploit"],
     "author": "Youngmea",
     "repo": "https://github.com/umarbekE/Kali-Linux",
     "icon": "https://raw.githubusercontent.com/Akmal1309/Kali-Linux/main/icon.png"
