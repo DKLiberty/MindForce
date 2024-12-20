@@ -1,35 +1,21 @@
 [
   {
     "name": "Python",
-    "tags": "#Python #Beginner",
+    "tags": ["Python", "Beginner"]
     "author": "Sadullaev Akmal",
     "repo": "https://github.com/DKLiberty/Python",
     "icon": "https://raw.githubusercontent.com/DKLiberty/Python/main/icon.png"
   },
   {
-    "name": "Java",
-    "tags": "#Java",
-    "author": "Sadullaev Akmal",
-    "repo": "https://github.com/DKLiberty/Java-Course",
-    "icon": "https://raw.githubusercontent.com/DKLiberty/MindForce/main/src/Java/icon.png"
-  },
-  {
-    "name": "HTML + CSS",
-    "tags": "#HTML #CSS",
-    "author": "Wayne Foong Weng Hui",
-    "repo": "https://github.com/jamezmca/html-css-full-course",
-    "icon": "https://raw.githubusercontent.com/DKLiberty/MindForce/main/src/html_icon.png"
-  },
-  {
     "name": "Minna No Nihongo",
-    "tags": "#Japanese #Vocabulary",
+    "tags": ["Japanese", "Vocabulary"]
     "author": "Akmal1309",
     "repo": "https://github.com/Akmal1309/Minna-No-Nihongo",
     "icon": "https://raw.githubusercontent.com/Akmal1309/Minna-No-Nihongo/main/icon.png"
   },
   {
     "name": "План Счетов",
-    "tags": "#Бухгалтерия #План-Счетов",
+    "tags": ["План-Счетов", "Бухгалтерия"],
     "author": "Akmal1309",
     "repo": "https://github.com/Akmal1309/Accounting-chart-of-accounts",
     "icon": "https://raw.githubusercontent.com/Akmal1309/Accounting-chart-of-accounts/main/icon.png"
