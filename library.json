@@ -26,5 +26,12 @@
     "author": "Youngmea",
     "repo": "https://github.com/umarbekE/Kali-Linux",
     "icon": "https://raw.githubusercontent.com/Akmal1309/Kali-Linux/main/icon.png"
+  },
+  {
+    "name": "Деньги и кредит",
+    "tags": "#Бухгалтерия #Банк",
+    "author": "Akmal1309",
+    "repo": "https://github.com/Akmal1309/-",
+    "icon": "https://raw.githubusercontent.com/Akmal1309/Accounting-chart-of-accounts/main/icon.png"
   }
 ]
