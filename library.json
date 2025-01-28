@@ -39,20 +39,20 @@
     "tags": ["Бизнес", "Бухгалтерия"],
     "author": "Akmal1309",
     "repo": "https://github.com/Akmal1309/Business",
-    "icon": "https://raw.githubusercontent.com/Akmal1309/Accounting-chart-of-accounts/main/icon.png"
+    "icon": "https://raw.githubusercontent.com/Akmal1309/Business/main/icon.png"
   },
   {
     "name": "Статистика",
     "tags": ["Статистика", "Бухгалтерия"],
     "author": "Akmal1309",
     "repo": "https://github.com/Akmal1309/Stats",
-    "icon": "https://raw.githubusercontent.com/Akmal1309/Accounting-chart-of-accounts/main/icon.png"
+    "icon": "https://raw.githubusercontent.com/Akmal1309/Stats/main/icon.png"
   },
   {
     "name": "Основы финансов",
     "tags": ["Финансы", "Бухгалтерия"],
     "author": "Akmal1309",
     "repo": "https://github.com/Akmal1309/Finance",
-    "icon": "https://raw.githubusercontent.com/Akmal1309/Accounting-chart-of-accounts/main/icon.png"
+    "icon": "https://raw.githubusercontent.com/Akmal1309/Finance/main/icon.png"
   }
 ]
