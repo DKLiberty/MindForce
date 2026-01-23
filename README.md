@@ -1,15 +1,15 @@
 # MindForce
 
-MindForce — это мобильное образовательное приложение, которое использует специально структурированные репозитории GitHub в качестве источника образовательного контента. Приложение позволяет пользователям не только получать знания, но и создавать и делиться собственными образовательными материалами.
+**MindForce** is a mobile educational application that uses specially structured GitHub repositories as a source of learning content. The app allows users not only to consume knowledge but also to create and share their own educational materials.
 
-## Особенности
+## Features
 
-- **Использование GitHub репозиториев**: Все образовательные материалы хранятся в репозиториях GitHub, структурированных по специально разработанному шаблону.
-- **Поддержка Markdown и HTML**: Приложение поддерживает Markdown и HTML, позволяя пользователям добавлять текст, изображения и видео (включая YouTube) в образовательные материалы.
-- **Практические задания**: MindForce позволяет создавать практические задания, чтобы пользователи могли тренировать свои навыки.
-- **Обмен знаниями**: Пользователи могут создавать свои репозитории и добавлять их в библиотеку MindForce, делясь своими знаниями с сообществом.
-- **Безопасность данных**: Все данные хранятся на открытой платформе GitHub, что обеспечивает безопасность и защиту данных от потери в случае взлома или других критических ситуаций.
+* **Use of GitHub repositories:** All educational materials are stored in GitHub repositories organized according to a specially designed template.
+* **Markdown and HTML support:** The app supports Markdown and HTML, allowing users to include text, images, and videos (including YouTube) in educational content.
+* **Practical exercises:** MindForce enables creation of hands-on tasks so users can practice and develop skills.
+* **Knowledge sharing:** Users can create their own repositories and add them to the MindForce library to share knowledge with the community.
+* **Data safety:** All content is hosted on the open GitHub platform, providing safety and protection against data loss in case of hacks or other critical incidents.
 
-## Лицензия
+## License
 
-Этот проект лицензирован под [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
